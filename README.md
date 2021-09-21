@@ -31,3 +31,14 @@ A Global Execution Context is generated
 
 
 In the global execution context , it will  behave as a stack for each line of code . (All functions available for a stack/array is applicable here)
+
+
+
+
+
+All code will be executed line by line
+
+
+![Screenshot 2021-09-21 at 11 50 27 AM](https://user-images.githubusercontent.com/69234158/134121357-f0cb857f-f882-4d91-990c-69a5269f2083.png)
+
+
