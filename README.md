@@ -42,3 +42,10 @@ All code will be executed line by line
 ![Screenshot 2021-09-21 at 11 50 27 AM](https://user-images.githubusercontent.com/69234158/134121357-f0cb857f-f882-4d91-990c-69a5269f2083.png)
 
 
+
+
+in a JS Callstack if. we need all access of bluetooth,etc....(we need web apis -> like setTimeOut, document.getElementId, )
+
+![Screenshot 2021-09-21 at 11 58 38 AM](https://user-images.githubusercontent.com/69234158/134122222-9306f362-e371-43aa-98f3-63317d5b8a9b.png)
+
+
